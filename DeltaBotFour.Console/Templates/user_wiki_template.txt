@@ -1,0 +1,20 @@
+﻿[​](HTTP://DB3PARAMSSTART
+{{hiddenparams}}
+DB3PARAMSEND)
+#Snipe History for u/{{username}}
+
+##Snipes Received
+
+/u/{{username}} has received {{deltasreceivedcount}} snipes:
+
+| Date | Submission | Snipe Comment | Awarded By |
+| :-: | :-- | :-: | :-: |
+{{wikirowsreceived}}
+
+##Snipes Given
+
+/u/{{username}} has given {{deltasgivencount}} snipes:
+
+| Date | Submission | Snipe Comment | Awarded To |
+| :-: | :-- | :-: | :-: |
+{{wikirowsgiven}}

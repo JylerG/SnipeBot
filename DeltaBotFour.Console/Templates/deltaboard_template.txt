@@ -1,0 +1,6 @@
+﻿##{{deltaboardtype}}
+
+| Rank | Username | Snipes |
+| :------: | :------: | :------: |
+{{deltaboardrows}}
+||As of {{date}}||

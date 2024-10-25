@@ -1,0 +1,11 @@
+﻿#Snipeboards
+
+{{dailydeltaboard}}
+
+{{weeklydeltaboard}}
+
+{{monthlydeltaboard}}
+
+{{yearlydeltaboard}}
+
+{{alltimedeltaboard}}
