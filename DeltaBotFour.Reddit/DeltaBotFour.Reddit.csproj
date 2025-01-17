@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Reddit" Version="1.5.2" />
+	<PackageReference Include="System.Interactive.Async" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Foundation\Core.Foundation.csproj" />
+    <ProjectReference Include="..\DeltaBotFour.Persistence\DeltaBotFour.Persistence.csproj" />
+    <ProjectReference Include="..\DeltaBotFour.Shared\DeltaBotFour.Shared.csproj" />
+    <ProjectReference Include="..\RedditSharp\RedditSharp.csproj" />
+  </ItemGroup>
+
+</Project>

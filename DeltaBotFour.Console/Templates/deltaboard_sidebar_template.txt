@@ -1,0 +1,7 @@
+﻿###### Monthly Deltaboard
+
+| Rank | Username | Snipes |
+| :------: | :------: | :------: |
+{{deltaboardrows}}
+||As of {{date}}||
+||[More Snipeboards	](/r/{{subreddit}}/wiki/snipeboards)||
